@@ -1,0 +1,19 @@
+Array
+(
+    [runtime] => 00:29:24
+    [success_rate] => Array
+        (
+            [manga] => 0
+            [chapters] => 0
+            [images] => 0
+        )
+
+    [error_rate] => 0
+    [average_speed] => Array
+        (
+            [manga_per_hour] => 0
+            [chapters_per_hour] => 0
+            [images_per_hour] => 0
+        )
+
+)
